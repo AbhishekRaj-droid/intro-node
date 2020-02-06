@@ -1,2 +1,2 @@
 const supervillain = require('supervillains')
-console.log(supervillain);
+console.log(supervillain.random());
