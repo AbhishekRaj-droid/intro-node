@@ -1,0 +1,22 @@
+{
+  "name": "intro-node",
+  "version": "1.0.0",
+  "description": "This is introduction to Node Js",
+  "main": "intro.js",
+  "scripts": {
+    "test": "node --version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepclearning/intro-node.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Abhishek Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepclearning/intro-node/issues"
+  },
+  "homepage": "https://github.com/deepclearning/intro-node#readme"
+}
