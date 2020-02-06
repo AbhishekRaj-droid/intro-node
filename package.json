@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/deepclearning/intro-node/issues"
   },
-  "homepage": "https://github.com/deepclearning/intro-node#readme"
+  "homepage": "https://github.com/deepclearning/intro-node#readme",
+  "dependencies": {
+    "supervillains": "^3.0.0"
+  }
 }
